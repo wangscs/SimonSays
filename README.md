@@ -1,8 +1,10 @@
 # SimonSays
-https://wangscs.github.io/SimonSays/
+
 An interactive web page that displays a game where a player tries 
 to mimic the corresponding colors in order in an attempt to train their 
 memory. 
+
+Link: https://wangscs.github.io/SimonSays/
 
 ## How to Play
 
